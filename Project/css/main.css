@@ -1,0 +1,33 @@
+body{
+	background-color: #939C96;
+	font-family: cursive;
+	color:black;
+	font-weight:bold;
+}
+
+.headerSortDown{
+	background-image:url('http://localhost/Project/img/sort_asc.png');
+	background-repeat:no-repeat;
+	background-position:right; 
+	background-size:20px 20px;
+}
+.headerSortUp{
+	background-image:url('http://localhost/Project/img/sort_dsc.png');
+	background-repeat:no-repeat;
+	background-position:right; 
+	background-size:20px 20px;
+}
+
+.error{
+	color:red;
+}
+
+.buttonsearch{
+	position:absolute;
+	font-size:19px;
+}
+
+.link_modal{
+	color:black;
+	font-family: cursive;
+}
